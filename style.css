@@ -1,0 +1,398 @@
+.link{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.we{
+    margin-top: 30px;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 800;
+    color: #232C7F;
+}
+
+.sch{
+    margin-top: 30px;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.us{
+    margin-top: 30px;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.buy{
+    margin-top: 30px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    color: #232C7F;
+    
+}
+
+.for{
+    margin-top: 30px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    color: #232C7F;
+    
+}
+
+.con{
+    margin-top: 30px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    color: #232C7F;
+    
+}
+
+.com{
+    margin-top: 30px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    color: #232C7F;
+    
+}
+
+
+.sign{
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    color: #232C7F;
+    
+}
+
+.get{
+    margin-top: 30px;
+    margin-right: 50px;
+    border-radius: 10px;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: blue;
+    color: white;
+}
+
+.h4{
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 36px;
+    color:  #FFFFFFE5;
+}
+
+.p-1{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 16px;
+    color:  #FFFFFFE5;
+}
+
+.s-1{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 12px;
+    color:  #FFFFFFE5;
+}
+
+.btn-1{
+    border-radius: 10px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: blue;
+    color: #FFFFFF;
+}
+
+.cart{
+    border-radius: 5px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #F7CE04;
+    color:  #FFFFFF;
+}
+
+.p-2{
+    margin-left: 600px;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 25px;
+    color:  #919397;
+}
+
+.container-2{
+    background-image: url("basketball.png");
+    width: 1250px;
+    height: 300px;
+}
+
+.text{
+    text-align: left;
+    margin-left: 200px;
+}
+
+.text{
+    justify-content: flex-end;
+}
+
+.mid-text{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #242222;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+}
+
+.p-3{
+    color: #4F4C4C;
+    margin-left: 80px;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+}
+
+.container-3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-3{
+    display: flex;
+}
+
+.des{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color:  #242222;
+    margin-left: 50px;
+}
+
+.p-4{
+    font-family: Source Sans Pro;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #000000;
+    margin-left: 50px;
+}
+
+.img-2{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 575px;
+    height: 587px;
+    margin-left: 100px;
+}
+
+.mid-text-4{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #242222;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+}
+
+.mid-text-7{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.cou{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #4F4C4C;
+    margin-left: 100px;
+}
+
+.cou-2{
+    font-family: Source Sans Pro;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #000000;
+    margin-left: 100px;
+}
+
+.exp{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #232C7F;
+    margin-left: 1050px;
+}
+
+.mid-text-7{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #242222;
+}
+
+.p{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #312D2D;
+}
+
+.pro{
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #403C3C;
+}
+
+.hr{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    color: #6E798C;
+}
+
+
+.am{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #FFAA00;
+}
+
+
+.amo{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #FFAA00;
+}
+
+.buy{
+    border-radius: 7px;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    background-color: #232C7F;
+    color: #FFFFFF;
+
+}
+.container-4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-3{
+    width: 300px;
+    height: 300px;
+}
+
+.img-4{
+    width: 300px;
+    height: 300px;
+}
+
+.img-5{
+    width: 300px;
+    height: 300px;
+}
+
+.about{
+    width: 300px;
+    height: 300px;
+    margin-left: 400px;
+}
+
+.bottom-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mon{
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #1B276E;
+    margin-right: 300px;
+}
+
+.illu{
+    margin-right: 300px;
+}
+
+.p-5{
+font-family: Source Sans Pro;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.2px;
+text-align: center;
+color: #474540;
+}
+
+
+
+.bot{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom-last{
+justify-content: space-between;
+background-color: #232C7F;
+font-family: Source Sans Pro;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.2px;
+text-align: left;
+}
